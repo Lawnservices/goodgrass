@@ -11,7 +11,7 @@ header {
     margin-top: 0;
     width: 100%;
     height: 600px;
-    background-image: url(/img/casa-29.jpg);
+    background-image: url(img/casa-29.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: 50%;
@@ -83,11 +83,11 @@ h3 {
 .uno {
     width: 400px;
     height: 400px;
-    background-image: url(/img/imagen3.jpg);
+    background-image: url(img/imagen3.jpg);
 }
 
 .dos {
-    background-image: url(/img/imagen2.jpg);
+    background-image: url(img/imagen2.jpg);
     width: 400px;
     height: 400px;
 }
@@ -95,7 +95,7 @@ h3 {
 .tres {
     width: 400px;
     height: 400px;
-    background-image: url(/img/imagen1.jpg);
+    background-image: url(img/imagen1.jpg);
 }
 
 
@@ -313,7 +313,7 @@ div {
 }
 
 .n_foto {
-    background-image: url(/img/imagen5.jpg);
+    background-image: url(img/imagen5.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
